@@ -1,27 +1,28 @@
 import javax.swing.*;
 import java.util.*;
 import java.awt.*;
-import.java.awt.event.*;
+import java.awt.event.*;
 
 
 public class Problem2 {
     public static void main(String args[]){
 
-     String firstname,lastname,Initial;
+     String firstname,lastname,initial;
      Float distancecycled,moneydue;
 
         firstname=JOptionPane.showInputDialog("Please enter your firstname");
 
-        Initial=JOptionPane.showInputDialog("Please enter tour initials");
+        initial=JOptionPane.showInputDialog("Please enter tour initials");
 
         lastname=JOptionPane.showInputDialog("Please enter your lastname");
 
-        for (i=0,i++);
-       if(distancecycled<=10){
-           moneydue=7;
+        for (i=0;i++;);
+       if(distancecycled<=10) {
+           moneydue = 7;
        }
-       else(){
-           moneydue=10;
-        }
+       else() {
+               moneydue = 10;
+           }
+
     }
 }
